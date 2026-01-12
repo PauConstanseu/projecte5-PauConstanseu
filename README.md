@@ -43,4 +43,4 @@ projecte5/
 - [Control de versions: Git](https://github.com/SMX2n/ControlVersions)
 - [Guia GitHub Classroom](https://github.com/SMX2n/guia-github-classroom)
 
-Bona sort! 🚀
+Mala sort! 🚀
