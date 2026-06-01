@@ -1,4 +1,4 @@
-# 🌱 T08: Green IT – Tecnologia Sostenible i Bones Pràctiques
+# 🌱 T10: Green IT – Tecnologia Sostenible i Bones Pràctiques
 
 **Autor:** Pau Constanseu
 
@@ -31,3 +31,9 @@ La darrera fase del projecte s’ha centrat en una recerca aplicada i orientada 
 ### 💚 Conclusió i Sector Professional
 
 La realització d'aquesta activitat ha esdevingut una eina clau per desenvolupar una **visió crítica, ètica i responsable** sobre l’ús i desplegament de la tecnologia actual. Aquestes pràctiques sostenibles promogudes es troben alineades amb els Objectius de Desenvolupament Sostenible (ODS), uns criteris normatius i corporatius que tenen una presència cada vegada més exigent i rellevant en l’àmbit professional de les TIC.
+
+## Solucions:
+
+- [Activitat 1](https://docs.google.com/document/d/10pTIPZrY5cpDlAfDuC0znU-sPthEPV1R/edit)
+- [Activitat 2](https://docs.google.com/document/d/1UggEo72YNImjH42GGnlzP6rP6iQ_--1c/edit)
+- [Activitat 3](https://docs.google.com/document/d/1H4isG9x4WrzRk8T_M56jydNzmzxTICei/edit)
